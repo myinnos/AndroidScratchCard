@@ -1,5 +1,5 @@
 # Android Scratchcard
-Light Weighted Scratchcard View for Android
+Light Weighted Scratchcard View Library for Android
 
  ![AndroidScratchCard - Example](https://raw.githubusercontent.com/myinnos/AndroidScratchCard/master/images-gif/androidscratchcard-example.gif)
   
