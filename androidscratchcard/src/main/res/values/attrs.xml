@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ScratchCard">
+        <attr name="scratchDrawable" format="reference|color" />
+        <attr name="scratchWidth" format="dimension" />
+    </declare-styleable>
+
+</resources>
