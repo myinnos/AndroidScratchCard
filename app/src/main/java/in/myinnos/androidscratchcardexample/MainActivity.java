@@ -29,7 +29,6 @@ public class MainActivity extends AppCompatActivity {
         mScratchCard.setOnScratchListener(new ScratchCard.OnScratchListener() {
             @Override
             public void onScratch(ScratchCard scratchCard, float visiblePercent) {
-                Log.d("Wedad", String.valueOf(visiblePercent));
                 if (visiblePercent > 0.3) {
                     mScratchCard.setVisibility(View.GONE);
                     Toast.makeText(MainActivity.this, "Content Visible", Toast.LENGTH_SHORT).show();
